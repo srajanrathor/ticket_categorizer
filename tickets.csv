@@ -1,0 +1,41 @@
+subject,body,category
+Invoice not received,I have not received my invoice for last month's subscription payment. Can you resend it?,Billing
+Overcharged on my card,I was charged twice for the same order this billing cycle. Please refund the duplicate charge.,Billing
+Payment failed at checkout,My credit card payment keeps failing during checkout even though I have sufficient balance.,Billing
+Need refund for cancelled order,I cancelled my order yesterday but have not received my refund yet. When will it be processed?,Billing
+Subscription plan upgrade cost,What is the additional cost if I upgrade from the basic plan to the premium plan mid billing cycle?,Billing
+Wrong amount deducted,The amount deducted from my account does not match the price shown on the pricing page.,Billing
+Billing cycle question,Can you tell me when my next billing date is and how much will be charged?,Billing
+Request for GST invoice,I need a GST compliant invoice for my last three payments for company reimbursement.,Billing
+Auto renewal charge dispute,I was auto renewed without notice and charged for a full year. I want this reversed.,Billing
+Coupon code not applied,My discount coupon code did not apply at checkout and I was charged the full price.,Billing
+App crashes on login,The mobile app crashes every time I try to log in after the latest update.,Technical
+Unable to reset password,I clicked forgot password but the reset link in the email is broken and gives an error.,Technical
+Website loading very slow,The dashboard page takes more than a minute to load and sometimes times out completely.,Technical
+API returning 500 error,Our integration is getting a 500 internal server error when calling the /users endpoint.,Technical
+File upload not working,"I cannot upload any files larger than 5MB, the progress bar freezes and nothing happens.",Technical
+Sync issue between devices,My data is not syncing between my laptop and phone app even after manual refresh.,Technical
+Bug in export feature,"When I export my report to PDF, the formatting is broken and some columns are missing.",Technical
+Two factor authentication broken,I am not receiving the OTP code on my phone so I cannot log into my account.,Technical
+Server downtime affecting production,Our production environment is down and we are getting connection timeout errors.,Technical
+Software installation error,I keep getting an error code during installation and the setup wizard closes unexpectedly.,Technical
+Request for leave balance,Can you tell me how many paid leave days I have remaining for this year?,HR
+Issue with payslip,"My payslip for this month shows an incorrect tax deduction, can this be corrected?",HR
+Onboarding documents pending,I have not received the onboarding documents and offer letter for my new joiner starting Monday.,HR
+Health insurance claim query,How do I file a claim under the company health insurance policy for a recent hospital visit?,HR
+Request to update bank details,"I need to update my bank account details for salary credit, what is the process?",HR
+Maternity leave policy,Could you share the details of the maternity leave policy and how to apply for it?,HR
+Performance review schedule,When is the next performance review cycle scheduled and how do I prepare for it?,HR
+Resignation process query,"I want to resign from my role, what is the notice period and exit process?",HR
+Employee id card not issued,I joined two weeks ago but still have not received my employee id card and access badge.,HR
+Complaint about workplace harassment,I would like to report a workplace conduct issue and understand the escalation process.,HR
+General inquiry about services,Can you tell me more about the different services your company offers?,General
+Office hours and location,What are your office working hours and where is your head office located?,General
+Partnership opportunity,"We are interested in exploring a business partnership, who should we contact?",General
+Feedback about the product,I just wanted to share some general feedback about my overall experience using the product.,General
+Media inquiry,I am a journalist writing an article and would like to know more about your company history.,General
+Request for company brochure,Could you send me a company brochure or information pack about your organization?,General
+How to contact support,What is the best way to reach your support team for urgent queries?,General
+Event sponsorship request,We are organizing a tech event and would like to know if you offer sponsorships.,General
+Career opportunities,"I am interested in career opportunities at your company, where can I find open positions?",General
+Newsletter subscription,I would like to subscribe to your newsletter to stay updated on new features.,General
